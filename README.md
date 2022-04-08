@@ -7,7 +7,6 @@
 - 🌱 Estudando React.js
 - 🎓 Análise e Desenvolvimento de Sistemas
 
-  ##
 <br>
 <div align="center">
   <a href="https://github.com/danielbressan93">
