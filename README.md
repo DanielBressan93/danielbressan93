@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/danielbressan93">
-  <img width="200px" src="https://github-readme-stats.vercel.app/api?username=danielbressan93&show_icons=true&theme=dracula"/>
-  <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbressan93&theme=dracula&layout=compact"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=danielbressan93&show_icons=true&theme=dracula"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbressan93&theme=dracula&layout=compact"/>
 </div>
   
 <div style="display: inline_block"><br>
