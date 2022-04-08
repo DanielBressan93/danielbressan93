@@ -7,7 +7,7 @@
 - 🔭 Desenvolvedor Jr
 - 🌱 Estudando React.js
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/DanielBressan93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbressan93&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbressan93&theme=dracula&layout=compact"/>
