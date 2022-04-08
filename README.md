@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/DanielBressan93">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielbressan93&show_icons=true&theme=dracula)]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbressan93&show_icons=true&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
