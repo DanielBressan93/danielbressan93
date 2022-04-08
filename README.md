@@ -1,17 +1,15 @@
-<h4 align="center">
-
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-  
 ### Olá! eu sou o Daniel Bressan! 👋
 
-- 🔭 Desenvolvedor Jr
+- 🔭 Desenvolvedor Front-End Jr
 - 🌱 Estudando React.js
 
-<div>
+<div align="center">
   <a href="https://github.com/danielbressan93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbressan93&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbressan93&theme=dracula&layout=compact"/>
+  <img height="180em" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbressan93&theme=dracula&layout=compact"/>
 </div>
+  
+  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
